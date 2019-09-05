@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="calculator_input">0</string>
+    <string name="error_message">Error</string>
+    <string name="sign_button">+/-</string>
+    <string name="decimal_button">.</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="multiplication_sign">*</string>
+    <string name="division_sign">/</string>
+    <string name="equals_sign">=</string>
+    <string name="clear_button">CC</string>
+    <string name="numeric_0">0</string>
+    <string name="numeric_1">1</string>
+    <string name="numeric_2">2</string>
+    <string name="numeric_3">3</string>
+    <string name="numeric_4">4</string>
+    <string name="numeric_5">5</string>
+    <string name="numeric_6">6</string>
+    <string name="numeric_7">7</string>
+    <string name="numeric_8">8</string>
+    <string name="numeric_9">9</string>
+</resources>
